@@ -18,5 +18,7 @@ public class SistemaVuelosOnline {
     public static void main(String[] args) {
         system.out.println("Hello word..");
     }
-    
+    public function Sumar(){
+        2+2
+    }
 }
